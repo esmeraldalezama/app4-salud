@@ -2,10 +2,10 @@
 
 <widget xmlns= "http://www.w3.org/ns/widgets"
 xmlns:gap="http://phonegap.com/ns/1.0"
-id="com.phonegap.app3-salud"
+id="com.phonegap.app4-salud"
 version="1.0.0">
 
-<name> app3-2019 Dia Internacional de la madre tierra 22 de abril</name>
+<name> app4-2019 Dia Internacional de la madre tierra 22 de abril</name>
 
 <description>
 Aplicacion que nos muestra la informacion del Dia Internacional de la madre tierra- 22 de abril 
